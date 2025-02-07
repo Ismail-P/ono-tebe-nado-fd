@@ -137,7 +137,7 @@
   font-weight: 500;
   padding: 12px 32px 11px 31px;
   border: 1px solid white;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
 }
 
 .bet-button_text {
@@ -169,8 +169,7 @@
 .lots__card-list-item {
   display: flex;
   width: 334px;
-  min-height: 10px;
-  height: 596px;
+  min-height: 596px;
 }
 
 .card-link {
